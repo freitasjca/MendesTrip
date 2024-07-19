@@ -1,10 +1,8 @@
 # MendesTrip
 
-
 Hi,
 
 Advises:  
-
     
    - Be carefull with pickpocket. They seam to be really active in Rome.   
    - To skip the lines by ticket's online in advance for the various Catedrals, Museums... that need tickets.    
@@ -71,25 +69,26 @@ For each city, ckeck if there are packs with some or all the places to visit inc
           - Piazza della Cisterna
           - Piazza del Duomo
           - Rocca of Montestaffoli
-      - Siena   <sup><sub>[by car 44 min][3]</sub></sup>   
+      - [Siena][29]   <sup><sub>[by car 44 min][3]</sub></sup>   
           - Piazza Salimbeni 
-          - Piazza del Campo
+          - [Piazza del Campo][30]
           - Contrada della Torre
-          - Duomo di Siena
-      - Vale D'Orcia  
-      - Montalcino    
-      - Pienza ( World Heritage Site by UNESCO )
-      - Monticchiello
-      - Montepulciano  
+          - [Duomo di Siena][31]
+      - [Vale D'Orcia][32]  
+      - [Montalcino][33]    
+      - [Pienza][34] ( World Heritage Site by UNESCO )
+      - [Monticchiello][35]
+      - [Montepulciano][36]  
 
    - [Day 11][1] 
       - Piza  ( )   
-          - Square of Miracles: explore the Cathedral, Baptistry, Monumental Cemetery, and of course The Leaning Tower!
-      - Cinque Terre    
-        - Manarola    
-        - Riomaggiore    
-        - Vernazza       
-        - Monterosso al Mare  
+          - [Square of Miracles][37]: explore the Cathedral, Baptistry, Monumental Cemetery, and of course The Leaning Tower!
+      - [Cinque Terre][38]    
+        - [Manarola][39]    
+        - [Riomaggiore][42]    
+        - [Vernazza][41]       
+        - [Monterosso al Mare][40]  
+        - [Corniglia][43]
 	
    - Day 12    
       - **Departure: 10:59 am** - Firenze S.M. Novella    	
@@ -127,3 +126,18 @@ Rome
 [26]: https://www.google.com/maps/place/Ponte+Vecchio/@43.767925,11.2505632,17z/data=!3m1!4b1!4m6!3m5!1s0x132a56aaa2dcb667:0x40310ae830e702e8!8m2!3d43.767925!4d11.2531435!16zL20vMDY4d3A?entry=ttu
 [27]: https://www.europeisourplayground.com/travel/sunset-at-piazzale-michelangelo/  
 [28]: https://www.italia.it/en/tuscany/things-to-do/san-gimignano
+[29]: https://florencetips.com/siena.html?gad_source=1&gclid=CjwKCAjwnei0BhB-EiwAA2xuBl0r0zi944ETve-N1Sh2kLCf08kB420ZZsaXAj54LMR7AI58l8nnXRoC5dEQAvD_BwE  
+[30]: https://www.walksofitaly.com/blog/things-to-do/what-to-do-in-siena#Explore_the_Piazza_del_Campo
+[31]: https://www.walksofitaly.com/blog/things-to-do/what-to-do-in-siena#Go_inside_the_Duomo_of_Siena   
+[32]: https://www.italia.it/en/tuscany/things-to-do/val-orcia
+[33]: https://www.toscana.info/en/places-to-visit-tuscany/montalcino/   
+[34]: https://www.travelstales.it/pienza-cosa-vedere/ 
+[35]: https://www.visittuscany.com/en/towns-and-villages/village-of-monticchiello/
+[36]: https://www.visittuscany.com/en/towns-and-villages/montepulciano/
+[37]: https://www.discovertuscany.com/pisa/piazza-dei-miracoli.html
+[38]: https://www.cinqueterre.eu.com/en/
+[39]: https://www.cinqueterre.eu.com/en/manarola
+[40]: https://www.cinqueterre.eu.com/en/monterosso
+[41]: https://www.cinqueterre.eu.com/en/vernazza
+[42]: https://www.cinqueterre.eu.com/en/riomaggiore
+[43]: https://www.cinqueterre.eu.com/en/corniglia
